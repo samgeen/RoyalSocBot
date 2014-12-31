@@ -1,0 +1,10 @@
+\documentclass[11pt]{article}
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX]{Linux Libertine O}
+\begin{document}
+\section{Unicode support}
+ 
+\subsection{English}
+All human beings are born free and equal in dignity and rights.
+ 
+\end{document}

@@ -1,0 +1,1 @@
+convert -density 400 template.pdf -trim test.png
